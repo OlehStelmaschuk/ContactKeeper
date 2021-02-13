@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@types/config, @types/config-yaml, @types/configs-overload, @types/configstore, @types/express, @types/mongodb, @types/mongoose, @types/mongoose-promise, @types/node, @types/nodes7, @types/okta__okta-vue, @types/prop-types, @types/react, @types/react-hooks-helper, @types/react-native-bcrypt, @types/react-props-decorators, @types/react-redux, @types/react-router, @types/react-router-dom}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>
